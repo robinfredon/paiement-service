@@ -1,4 +1,5 @@
 # paiement-service
+<<<<<<< HEAD
 ## Based url
 http://localhost:9092/Paiements
 
@@ -14,3 +15,5 @@ http://localhost:8892/paiement-service/Paiements
 
 ## Mapped Proxy URL
 http://localhost:8892/paiement/Paiements
+=======
+>>>>>>> 5d88875ba7317c967879fa738155d0d678e2b99e
